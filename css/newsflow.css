@@ -1,0 +1,62 @@
+/* 
+    Document   : style.css
+    Created on : 2011-okt-17, 14:35:57
+    Author     : Hypernode
+    Description:
+        Stylesheet to Hypernews plugin.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.hypernews_hidden_row {
+    display:none;
+    font-style: normal;
+    color: #000;
+}
+
+.column-status {
+    width: 50px;
+}
+
+a.hypernews_publish_row {
+    /*background:url(../img/button.gif);
+    color:#555555;*/
+    font-weight:normal;
+    height:20px;
+    line-height:19px;
+    margin-bottom:14px;
+    text-decoration:none;
+    float:left;
+    margin-right: 4px;
+    padding-right: 4px;
+}
+
+a.hypernews_publish_row:hover {
+    background-color: gray;
+    color:white;
+}
+
+.hypernews_publish_add { 
+    padding-top:2px;
+    background:url(../img/add.png) no-repeat 3px 3px;
+    text-indent:20px;
+    display:block;   
+}
+
+.hypernews_pre_row {
+    /*white-space: nowrap;*/
+    font-style: italic;
+    color: #666;
+}
+
+a.hypernews_title_row{
+    font-weight: normal;
+}
+
+a.hypernews_title_unread {
+    font-weight: bold;
+}
+

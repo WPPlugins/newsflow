@@ -1,0 +1,519 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsflow v1.9.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-07 22:22:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: newsflow_links.php:405
+#@ newsflow
+msgid " (Contains errors!)"
+msgstr "(Innehåller fel!)"
+
+#: newsflow_links.php:370
+#@ newsflow
+msgid "# items"
+msgstr "# nyheter"
+
+#: newsflow_links.php:123
+#: newsflow_links.php:131
+#@ newsflow
+msgid "( 0 = feature disabled )"
+msgstr "( 0 = avstäng funktion )"
+
+#: newsflow_links.php:139
+#@ newsflow
+msgid "( hours, 0 = feature disabled )"
+msgstr "( timmar, 0 = funktionen bortkopplad )"
+
+#: newsflow_links.php:155
+#@ newsflow
+msgid "( separate multiple email adresses with , )"
+msgstr "( flera e-postadresser särskiljs med kommatecken , )"
+
+#: hypernews_list.php:37
+#@ newsflow
+msgid "...please wait while loading news and reloading page!"
+msgstr "...vänligen vänta medan systemet laddar om!"
+
+#: hypernews_list.php:347
+#@ newsflow
+msgid "Add as draft to"
+msgstr "Lägg till som utkast till"
+
+#: hypernews_browse.php:222
+#@ newsflow
+msgid "Add new browser-url"
+msgstr "Lägg till länk"
+
+#: hypernews_browse.php:45
+#: newsflow.php:73
+#@ newsflow
+msgid "Browse List"
+msgstr "Surflistan"
+
+#: hypernews_browse.php:52
+#@ newsflow
+msgid "Browser name"
+msgstr "Namn"
+
+#: hypernews_browse.php:79
+#: newsflow_links.php:206
+#@ newsflow
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: hypernews_list.php:184
+#: newsflow_links.php:365
+#@ newsflow
+msgid "Channel"
+msgstr "Kanal"
+
+#: newsflow_links.php:95
+#@ newsflow
+msgid "Channel name"
+msgstr "Kanal"
+
+#: hypernews_browse.php:284
+#: newsflow_links.php:493
+#@ newsflow
+msgid "Confirm delete this source!"
+msgstr "Källan kommer att tas bort!"
+
+#: hypernews_browse.php:284
+#: newsflow_links.php:394
+#: newsflow_links.php:493
+#@ newsflow
+msgid "Delete"
+msgstr "Ta bort"
+
+#: newsflow_links.php:136
+#@ newsflow
+msgid "Delete RSS-items older than:"
+msgstr "Ta bort nyheter äldre än:"
+
+#: hypernews_browse.php:283
+#: newsflow_links.php:492
+#@ newsflow
+msgid "Edit"
+msgstr "Ändra"
+
+#: newsflow_links.php:72
+#@ newsflow
+msgid "Edit RSS source"
+msgstr "Ändra RSS-källa"
+
+#: hypernews_browse.php:50
+#@ newsflow
+msgid "Edit browser source"
+msgstr "Ändra länk"
+
+#: newsflow_links.php:144
+#@ newsflow
+msgid "Email errors to:"
+msgstr "E-posta fel till:"
+
+#: newsflow_links.php:372
+#@ newsflow
+msgid "Error"
+msgstr "Fel"
+
+#: newsflow_links.php:369
+#@ newsflow
+msgid "Exec time"
+msgstr "Hämtningstid"
+
+#: hypernews_list.php:308
+#@ newsflow
+msgid "Favorite"
+msgstr "Favorit"
+
+#: hypernews_list.php:28
+#@ newsflow
+msgid "Fetching items from RSS-feeds..."
+msgstr "Hämtar nyheter från RSS-källor..."
+
+#: hypernews_list.php:48
+#: newsflow_links.php:464
+#@ newsflow
+msgid "Filter news on channel:"
+msgstr "Visar bara nyheter för kanal: "
+
+#: hypernews_list.php:182
+#@ newsflow
+msgid "Headline"
+msgstr "Rubrik"
+
+#: hypernews_list.php:309
+#@ newsflow
+msgid "Hide"
+msgstr "Dölj"
+
+#: hypernews_list.php:75
+#@ newsflow
+msgid "Hide selected news"
+msgstr "Dölj markerade nyheter"
+
+#: hypernews_metabox.php:52
+#@ newsflow
+msgid "Imported from RSS-feed:"
+msgstr "Importerad från RSS-feed:"
+
+#: newsflow_links.php:368
+#@ newsflow
+msgid "Latest fetch"
+msgstr "Senaste hämtning"
+
+#: hypernews_list.php:85
+#@ newsflow
+msgid "Make a clean sweep and fetch news again"
+msgstr "Omstart - Rensa alla nyheter och hämta på nytt"
+
+#: hypernews_list.php:84
+#@ newsflow
+msgid "Mark all items as read"
+msgstr "Markera alla som lästa"
+
+#: newsflow_links.php:371
+#@ newsflow
+msgid "New articles"
+msgstr "Nya artiklar"
+
+#: hypernews_list.php:186
+#@ newsflow
+msgid "Note"
+msgstr "Notering"
+
+#: newsflow_links.php:115
+#@ newsflow
+msgid "Only collecting news with one of these comma separated words found"
+msgstr "Hämtar bara nyheter med träff på ett av orden (kommaseparerat)"
+
+#: hypernews_list.php:81
+#@ newsflow
+msgid "Only show content in channel: "
+msgstr "Visar bara innehåll från kanal:"
+
+#: newsflow_links.php:403
+#@ newsflow
+msgid "Only show sources from channel: "
+msgstr "Visar bara källor från en kanal:"
+
+#: hypernews_metabox.php:54
+#@ newsflow
+msgid "Original newslink:"
+msgstr "Länk till nyhet:"
+
+#: hypernews_browse.php:56
+#: hypernews_browse.php:255
+#@ newsflow
+msgid "Parent"
+msgstr "Förälder"
+
+#: newsflow_links.php:367
+#@ newsflow
+msgid "Post types"
+msgstr "Posttyper"
+
+#: newsflow_links.php:161
+#@ newsflow
+msgid "Publish to:"
+msgstr "Publicera till:"
+
+#: hypernews_list.php:183
+#@ newsflow
+msgid "Published"
+msgstr "Publicerad"
+
+#: newsflow.php:72
+#: newsflow_links.php:66
+#@ newsflow
+msgid "RSS Feeds"
+msgstr "RSS-källor"
+
+#: newsflow_links.php:366
+#@ newsflow
+msgid "RSS-Url"
+msgstr "RSS-källa"
+
+#: newsflow_links.php:128
+#@ newsflow
+msgid "Remove text after n-characters:"
+msgstr "Ta bort text efter n-tecken:"
+
+#: hypernews_browse.php:92
+#@ newsflow
+msgid "Run selected"
+msgstr "Kör vald"
+
+#: hypernews_browse.php:78
+#: hypernews_options.php:151
+#: newsflow_links.php:203
+#@ newsflow
+msgid "Save"
+msgstr "Spara"
+
+#: newsflow_links.php:111
+#@ newsflow
+msgid "Search"
+msgstr "Sök"
+
+#: hypernews_browse.php:94
+#: hypernews_options.php:56
+#: newsflow.php:74
+#@ newsflow
+msgid "Settings"
+msgstr "Inställningar"
+
+#: hypernews_list.php:306
+#@ newsflow
+msgid "Show"
+msgstr "Visa"
+
+#: newsflow_links.php:398
+#: newsflow_links.php:459
+#@ newsflow
+msgid "Show all sources"
+msgstr "Visa alla källor"
+
+#: hypernews_list.php:77
+#@ newsflow
+msgid "Show content in all channels"
+msgstr "Visa allt innehåll"
+
+#: hypernews_list.php:76
+#@ newsflow
+msgid "Show hidden"
+msgstr "Visa dolda"
+
+#: newsflow_links.php:191
+#@ newsflow
+msgid "Sort order:"
+msgstr "Sorteringsordning:"
+
+#: hypernews_browse.php:254
+#: hypernews_list.php:185
+#: newsflow_links.php:364
+#@ newsflow
+msgid "Source"
+msgstr "Källa"
+
+#: newsflow_links.php:76
+#@ newsflow
+msgid "Source name"
+msgstr "Källa"
+
+#: newsflow_links.php:120
+#@ newsflow
+msgid "Strikethrough text after n-characters:"
+msgstr "Genomstruken efter n-tecken:"
+
+#: hypernews_list.php:307
+#@ newsflow
+msgid "Unread"
+msgstr "Oläst"
+
+#: hypernews_list.php:397
+#@ newsflow
+msgid "Update"
+msgstr "Uppdatera"
+
+#: hypernews_browse.php:72
+#: hypernews_browse.php:256
+#: newsflow_links.php:103
+#@ newsflow
+msgid "Url"
+msgstr "Webbadress"
+
+#: hypernews_fetcher.php:28
+#@ newsflow
+msgid "Stop update"
+msgstr "Stoppa uppdatering"
+
+#: hypernews_fetcher.php:135
+#: newsflow_links.php:288
+#@ newsflow
+msgid "Matched news:"
+msgstr "Nyheter med träff:"
+
+#: hypernews_fetcher.php:138
+#: newsflow_links.php:290
+#@ newsflow
+msgid "Mismatch:"
+msgstr "Nyheter utan träff:"
+
+#: includes/item.class.php:222
+#@ newsflow
+msgid "A new Newsflow source added"
+msgstr "En ny källa lades till"
+
+#: includes/item.class.php:223
+#@ newsflow
+msgid "Standard channel"
+msgstr "Standardkanal"
+
+#: includes/item.class.php:263
+#@ newsflow
+msgid "This category is used to group Newsflows browse elements. Please leave this one! It is vital for the Newsflow plugin."
+msgstr "Denna kategori används i för länkar till Newsflow. Låt stå för den är vital för funktion."
+
+#: includes/item.class.php:579
+#@ newsflow
+msgid "(none found)"
+msgstr "(inget funnet)"
+
+#: hypernews_browse.php:45
+#: hypernews_options.php:56
+#: newsflow.php:71
+#: newsflow.php:161
+#: newsflow_links.php:66
+#@ newsflow
+msgid "Newsflow"
+msgstr "Newsflow"
+
+#: hypernews_options.php:60
+#@ newsflow
+msgid "for WP-Cron action."
+msgstr "för WP-Cron-intervall."
+
+#: hypernews_options.php:62
+#@ newsflow
+msgid "for each fetch."
+msgstr "för varje hämtning."
+
+#: hypernews_options.php:104
+#@ newsflow
+msgid "Add source link to posts"
+msgstr "Lägg till länk för källan i inlägget"
+
+#: hypernews_options.php:105
+#@ newsflow
+msgid "Open post links in new window (add _blank to target)"
+msgstr "Öppna inläggets länk (källan) i nytt fönster (lägger till _blank i target)"
+
+#: hypernews_cron.php:42
+#, php-format
+#@ newsflow
+msgid "Once Every %s second."
+msgstr "Var %s sekund."
+
+#: hypernews_options.php:60
+#@ newsflow
+msgid "Interval"
+msgstr "Intervall"
+
+#: hypernews_options.php:62
+#@ newsflow
+msgid "Timeout"
+msgstr "Timeout"
+
+#: includes/item.class.php:370
+#@ newsflow
+msgid "(This feed item contains no title)"
+msgstr "(Källans innehåll har ingen titel)"
+
+#: includes/item.class.php:376
+#@ newsflow
+msgid "(This feed item contains no content)"
+msgstr "(Källans innehåll har ingen text)"
+
+#: newsflow_links.php:457
+#@ newsflow
+msgid "Add new RSS feed"
+msgstr "Ny RSS-källa"
+
+#: hypernews_list.php:59
+#@ newsflow
+msgid "Fetch news"
+msgstr "Hämta nyheter"
+
+#: hypernews_fetcher.php:106
+#@ newsflow
+msgid "This page will close and refresh startpage as it is done, please wait!"
+msgstr "Denna sida kommer att stängas efter att uppdateringen är klar, vänligen vänta!"
+
+#: hypernews_options.php:119
+#@ newsflow
+msgid "Manage Newsflow capability"
+msgstr "Hantera nyhetslistans behörighet"
+
+#: hypernews_options.php:128
+#@ newsflow
+msgid "Manage RSS Feeds capability"
+msgstr "Hantera RSS-källornas behörighet"
+
+#: hypernews_options.php:137
+#@ newsflow
+msgid "Manage Settings capability"
+msgstr "Hantera inställningarnas behörighet"
+
+#: hypernews_fetcher.php:148
+#: newsflow_links.php:89
+#@ newsflow
+msgid "Inactive"
+msgstr "Ej aktiv"
+
+#: includes/item.class.php:336
+#@ newsflow
+msgid "Error when fetching"
+msgstr "Fel vid hämtning"
+
+#: newsflow_links.php:84
+#@ newsflow
+msgid "Status:"
+msgstr "Status:"
+
+#: newsflow_links.php:88
+#@ newsflow
+msgid "Active"
+msgstr "Aktiv"
+
+#: newsflow_links.php:204
+#@ newsflow
+msgid "Test feed"
+msgstr "Testa källa"
+
+#: newsflow_links.php:205
+#@ newsflow
+msgid "Clear cache"
+msgstr "Töm cache"
+
+#: newsflow_links.php:258
+#@ default
+msgid " memory cache is cleared."
+msgstr ""
+
+#: newsflow_links.php:283
+#@ newsflow
+msgid "Error:"
+msgstr "Fel:"
+
+#: newsflow_links.php:287
+#@ newsflow
+msgid "Found"
+msgstr "Hittade"
+
+#: newsflow_links.php:287
+#@ newflow
+msgid "Time"
+msgstr ""
+
+#: newsflow_links.php:363
+#@ newsflow
+msgid "Status"
+msgstr "Status"
+
